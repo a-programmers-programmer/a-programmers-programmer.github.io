@@ -170,3 +170,78 @@
 - Bailey gets her own book as a surprise too
 
 ---
+
+## Question 5: Voice Sample
+
+**Answer:**
+
+"Make a way of tracking outstanding tasks. We can handle the sample later."
+
+**Decision:**
+- Voice sample is optional, can be added later
+- Use existing examples (Dan Zhang, Anthony, Anya stories) as voice references for now
+- **Action item:** Create task tracking system for outstanding items
+
+**Implications:**
+- Need task/project management component in harness
+- Track optional items that can be added later
+- User wants clear visibility into what's pending
+
+---
+
+## Question 6: Production Approach
+
+**Answer:**
+
+**Approach: Parallel**
+
+"Optimize for reducing my net time spent."
+
+**Implications:**
+
+**Workflow design:**
+- User can interview for multiple people in same session
+- Agents work on writing/organizing while user does other interviews
+- Maximize agent autonomy, minimize user bottlenecks
+- Pipeline approach: interview → organize → design → write → review
+
+**Example parallel flow:**
+- Week 1: User interviews for Person A, B, C
+- Week 2: User interviews for Person D, E, F while agents organize A, B, C
+- Week 3: User interviews for Person G, H while agents write A, B, C and organize D, E, F
+- Week 4: User reviews drafts for A, B while agents write D, E, F
+- And so on...
+
+**Harness requirements:**
+- Clear pipeline tracking (who's in what phase)
+- Agent coordination to prevent conflicts
+- Batch interview capability (multiple people per session)
+- Parallel writing by different agents or instances
+- Review queue management for user
+
+**User time optimization:**
+- Batch interviews when possible (multiple people in one sitting)
+- Agents work asynchronously while user is unavailable
+- Review process can be done in chunks
+- Minimize back-and-forth; get rich material upfront
+
+**Meta-Observer role becomes critical:**
+- Assess if interview material is sufficient before moving to next phase
+- Flag gaps early to avoid re-interviewing later
+- Quality gate at each phase transition
+
+---
+
+## Round 2 Complete
+
+All 6 tactical questions answered:
+1. ✅ Wedding: March 14, 2026 (~3 months)
+2. ✅ Format: Physical book + HTML multimedia version
+3. ✅ List: 9 of ~20 people identified
+4. ✅ Bailey: Surprise for everyone
+5. ✅ Voice sample: Optional, handle later
+6. ✅ Production: Parallel approach, optimize for user's time
+
+**User feedback:** "The way you are telling me why you ask each question is great. keep doing that."
+
+Ready to synthesize all feedback and build refined harness.
