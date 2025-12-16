@@ -168,3 +168,50 @@ Add an agent that judges quality of *user's* responses as a way to calibrate the
 2. Define what "quality response" means (richness, specificity, emotional depth, etc.)
 3. Create feedback mechanism for agents to receive calibration guidance
 4. Build this into Interview Architect workflow
+
+
+## Question 4: Epilogue Vision
+
+**Answer:**
+
+**Tone & Approach:**
+- Tailored to each relationship (not consistent across all books)
+- Heartfelt and stands on its own (not a summary of book themes)
+
+**Structure & Content:**
+The epilogue should communicate user's journey as the person knows them:
+1. **Who I was when I met them**
+2. **Who I am now**
+3. **How they helped me grow**
+4. **I'm glad they're here**
+
+**Key Principle:**
+"I put the book first because I want the book to be primarily about them and expressing gratitude while telling a fun story."
+
+- **The book = about THEM** (celebrating them, expressing gratitude, fun stories)
+- **The epilogue = about MY JOURNEY** (alongside them, how they shaped me)
+
+---
+
+## Key Insights from This Response
+
+**For epilogue template design:**
+- Must be highly personalized, not formulaic
+- Four-part structure: who I was / who I am / how you helped / gratitude for presence
+- Written in user's own words (first person, direct address)
+- Stands alone as a complete message
+
+**For book vs. epilogue balance:**
+- Book chapters: outward focus on the person, their qualities, shared experiences
+- Epilogue: inward focus on user's transformation, with person as witness/catalyst
+- This creates beautiful symmetry: "I see you" (book) + "You helped me see myself" (epilogue)
+
+**For emotional authenticity:**
+- Epilogue is where vulnerability lives most explicitly
+- Growth narrative is central to user's relationships
+- "I'm glad they're here" = simple, powerful closing sentiment
+
+**For Story Writer guidance:**
+- Chapters should celebrate the person, not be about user's journey
+- Save user's transformation arc for epilogue
+- Balance fun/humor in chapters with heartfelt reflection in epilogue
