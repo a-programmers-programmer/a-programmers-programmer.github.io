@@ -149,3 +149,24 @@
 - Chosen family vs. biological family
 - Work friendships that transcended workplace
 - Support through challenges (back pain, career, personal growth)
+
+## Question 4: Bailey's Involvement
+
+**Answer:**
+
+"It's a surprise. This is all from me and just to my friends :)"
+
+**Key points:**
+- Surprise for everyone, including Bailey
+- This is user's personal gift to each person
+- No collaboration or input from recipients
+- Need to maintain confidentiality throughout process
+
+**Implications:**
+- All work happens privately with user
+- No risk of spoiling surprise by involving others
+- User is sole decision-maker on content
+- Books are deeply personal, one-to-one gifts
+- Bailey gets her own book as a surprise too
+
+---
