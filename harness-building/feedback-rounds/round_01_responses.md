@@ -82,3 +82,49 @@ User describes themselves as "quite a character" who doesn't know social norms a
 - User's voice is irreverent, self-aware, and humorous
 - Genuine appreciation mixed with absurdist humor
 - Details matter (e.g., "as drunk as possible for $20")
+
+
+## Question 2: Core Emotions to Capture
+
+**Answer:**
+
+**Key emotions (with nuances):**
+
+1. **Relief of being myself without wearing a mask or performing**
+   - Good observation by the question itself
+
+2. **Deep appreciation for being supported and included, even when not always easy to understand and maybe a bit cagey**
+   - Acknowledges user wasn't always straightforward
+   - Values friends who included them anyway
+
+3. **Pride in each other's growth**
+   - Many friends push user to grow
+   - User tries to do the same for them
+   - This is a "filtering function" for friendships
+
+**CRITICAL INSIGHT:**
+**Emotions to convey will vary from person to person.**
+
+**Action item:** Add questions about person-specific emotions to the interview question bank. Ask for each individual person:
+- "What specific emotions do you want to capture about your relationship with [Person]?"
+- "What feeling do you want [Person] to experience when reading this?"
+- "What's the emotional core of your friendship with [Person]?"
+
+---
+
+## Key Insights from This Response
+
+**For interview question bank:**
+- Add person-specific emotion questions (not just generic)
+- Each book should capture unique emotional signature of that relationship
+- Don't assume emotions are the same across all friendships
+
+**For emotional authenticity criteria:**
+- Look for: relief of authenticity, appreciation for acceptance despite complexity
+- Look for: mutual growth and pushing each other
+- Avoid: one-size-fits-all emotional templates
+
+**For voice/tone:**
+- User values being "a bit cagey" and not always easy to understand
+- Authenticity includes acknowledging complexity, not just celebrating perfection
+- "Filtering function" language shows analytical/systems thinking approach to relationships
