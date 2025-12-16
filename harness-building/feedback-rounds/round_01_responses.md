@@ -128,3 +128,43 @@ User describes themselves as "quite a character" who doesn't know social norms a
 - User values being "a bit cagey" and not always easy to understand
 - Authenticity includes acknowledging complexity, not just celebrating perfection
 - "Filtering function" language shows analytical/systems thinking approach to relationships
+
+
+## Question 3: Reflection & Memory Access
+
+**Answer:**
+
+**What works for user:**
+- Needs lots of iterations and back-and-forth
+- Likes telling stories and having conversations
+
+**NEW AGENT IDEA (from user):**
+
+Add an agent that judges quality of *user's* responses as a way to calibrate the system. This agent can:
+- Make meta observations
+- Tune the context of other agents based on response quality
+- Provide feedback loop for improving interview process
+
+**User's note:** "if this makes sense as work for an existing agent in our team, update the content accordingly to include vague instructions on grading my response and reflecting to get the [best results]"
+
+---
+
+## Key Insights from This Response
+
+**For interview process design:**
+- Conversational, back-and-forth format is essential
+- User accesses memories through storytelling, not structured reflection
+- Multiple iterations needed to extract rich material
+- Interview Architect should be designed for dialogue, not questionnaire
+
+**For harness architecture:**
+- **NEW AGENT NEEDED:** Meta-Observer or Response Quality Calibrator
+- This agent evaluates user's responses and provides feedback to other agents
+- Helps tune interview questions, follow-ups, and approach in real-time
+- Could be role for existing agent (likely Quality Reviewer or Interview Architect)
+
+**Action items:**
+1. Design Meta-Observer agent role and responsibilities
+2. Define what "quality response" means (richness, specificity, emotional depth, etc.)
+3. Create feedback mechanism for agents to receive calibration guidance
+4. Build this into Interview Architect workflow
