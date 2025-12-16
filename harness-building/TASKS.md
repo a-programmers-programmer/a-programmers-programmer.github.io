@@ -1,304 +1,373 @@
-# Task Tracking - Personalized Wedding Books Project
+# Task Tracking - Wedding Books Project (Enhanced for Self-Service)
 
 **Project:** 20 personalized story books as wedding gifts
 **Deadline:** March 14, 2026 (binding buffer needed)
-**Status:** Harness Building Phase
+**Current Phase:** Harness Building
+**Progress:** 65% complete
 
 ---
 
-## Current Phase: Harness Building
+## How To Use This File
 
-**Goal:** Design and build all materials, workflows, and agent instructions needed to produce 20 books efficiently.
-
-**Progress:** ✅✅✅✅✅✅⚪⚪⚪⚪ (60% complete)
-
----
-
-## Completed Tasks
-
-### Phase 1: Planning & Research ✅
-- [x] Explored stories GitHub repo
-- [x] Created initial harness plan
-- [x] Researched narrative structures (sitcoms, memoirs)
-- [x] Set up harness-building directory in GitHub
-
-### Phase 2: Sub-Agent Consultation ✅
-- [x] Sent plan to Gemini sub-agent (Interview Architect, Narrative Designer, Quality Reviewer)
-- [x] Sent plan to ChatGPT sub-agent (Content Organizer, Story Writer)
-- [x] Consolidated sub-agent strategic input
-- [x] Created ADHD-friendly question chunks
-
-### Phase 3: User Feedback Round 1 ✅
-- [x] Q1: Between-visit connections (gaming, calls, holidays, social scripts)
-- [x] Q2: Core emotions (person-specific, not generic)
-- [x] Q3: Reflection process (iterations, conversations, storytelling)
-- [x] Q4: Epilogue vision (journey-focused, tailored)
-- [x] Q5: Sensitivities (open book, user will review)
-- [x] Q6: Meaningful gift (wedding context revealed!)
-- [x] Q7: Story themes (growth, challenges, humor, acts of care)
-- [x] Q8: Authenticity vs structure (authenticity wins)
-
-### Phase 4: User Feedback Round 2 ✅
-- [x] Q1: Wedding timeline (March 14, 2026)
-- [x] Q2: Book format (physical + HTML multimedia)
-- [x] Q3: Initial list of people (9 of ~20)
-- [x] Q4: Bailey's involvement (surprise for everyone)
-- [x] Q5: Voice sample (optional, handle later)
-- [x] Q6: Production approach (parallel, optimize user time)
-
-### Phase 5: Synthesis & Analysis ✅
-- [x] Created Round 1 synthesis document
-- [x] Identified major harness revisions needed
-- [x] Designed Meta-Observer agent capability
-- [x] Created task tracking system (this document)
+1. Find a task that matches your capabilities (Gemini, ChatGPT, Either)
+2. Check that status is "Not Started" and no one is working on it (check CURRENT_STATUS.md)
+3. Note the template reference and prerequisites
+4. Update CURRENT_STATUS.md to claim the task
+5. Build the material
+6. Update both CURRENT_STATUS.md and this file when complete
 
 ---
 
-## In Progress Tasks
+## Core Materials To Build (15 Total)
 
-### Phase 6: Harness Refinement 🔄
-- [ ] Create refined harness plan integrating all feedback
-- [ ] Update agent role descriptions with new capabilities
-- [ ] Build all harness materials (see detailed list below)
-- [ ] Get sub-agent review of refined harness
-- [ ] User approval of final harness design
+### Material 1: Interview Question Bank
+**Status:** Not Started
+**Suggested Agent:** Gemini (best for question design and Meta-Observer context)
+**Est. Time:** 2-3 hours
+**Prerequisites:** None
+**Template:** `templates/interview_question_bank_template.md`
+**Output:** `materials/interview_question_bank.md`
 
----
-
-## Upcoming Tasks
-
-### Phase 7: Pilot Book
-- [ ] Select pilot book candidate (Dan Zhang, Anya, or Anthony?)
-- [ ] Conduct pilot interview
-- [ ] Test full workflow (organize → design → write → review)
-- [ ] Refine harness based on pilot learnings
-- [ ] User review of pilot book
-
-### Phase 8: Production (19 Remaining Books)
-- [ ] Batch interviews (parallel approach)
-- [ ] Content organization for all books
-- [ ] Narrative design for all books
-- [ ] Story writing for all books
-- [ ] Quality review for all books
-- [ ] User final review for all books
-
-### Phase 9: Formatting & Production
-- [ ] Format all books for print
-- [ ] Create HTML multimedia versions
-- [ ] Send to professional binding/printing
-- [ ] Receive and quality-check physical books
-- [ ] Deliver books at wedding
+**What to build:**
+- Person-specific emotion questions
+- Social scripts/character questions
+- Online-to-IRL transition questions
+- Between-visit connection questions
+- Specific acts of care questions
+- Organized by updated theme categories
 
 ---
 
-## Detailed Harness Materials To Build
+### Material 2: Narrative Structure Guide
+**Status:** Not Started
+**Suggested Agent:** Gemini (narrative design expertise)
+**Est. Time:** 2-3 hours
+**Prerequisites:** None
+**Template:** `templates/narrative_structure_guide_template.md`
+**Output:** `materials/narrative_structure_guide.md`
 
-### Core Materials (Must Have)
-
-1. **Interview Question Bank** 🔄
-   - [ ] Update with person-specific emotion questions
-   - [ ] Add social scripts/character questions
-   - [ ] Add online-to-IRL transition questions
-   - [ ] Add between-visit connection questions
-   - [ ] Add specific acts of care questions
-   - [ ] Organize by theme categories (updated)
-
-2. **Narrative Structure Guide** 🔄
-   - [ ] Update for episodic friendship dynamics
-   - [ ] Add non-linear timeline guidance
-   - [ ] Include playful/meta narrative techniques
-   - [ ] Prioritize authenticity over structure
-   - [ ] Add wedding context framing
-
-3. **Working With You Guide** ✅ (mostly complete, needs minor updates)
-   - [ ] Add "explain why you're asking" principle
-   - [ ] Emphasize conversational, iterative approach
-
-4. **Content Organization System** 🔄
-   - [ ] Update theme categories (Growth Catalysts, Challenges, Humor, Acts of Care, Online-to-IRL, Between-Visit)
-   - [ ] Add directory structure for 20 books
-   - [ ] Optimize for parallel production
-   - [ ] Add pipeline tracking system
-
-5. **Agent Coordination Protocol** 🔄
-   - [ ] Update for parallel production workflow
-   - [ ] Add Meta-Observer feedback loops
-   - [ ] Define phase transition criteria
-   - [ ] Add wedding timeline milestones
-
-6. **Base README** 📝 (needs creation)
-   - [ ] General instructions for all agents
-   - [ ] Wedding context and purpose
-   - [ ] User's voice and character
-   - [ ] Quality standards
-
-7. **Story Consistency Checker** 📝 (needs creation)
-   - [ ] Define consistency criteria
-   - [ ] Create checklist for Quality Reviewer
-   - [ ] Add person-specific tracking
-
-8. **Emotional Beat Library** 📝 (needs creation)
-   - [ ] Expand for episodic friendships
-   - [ ] Add chosen family dynamics
-   - [ ] Include user's specific emotional themes
-
-9. **Voice and Tone Guide** 📝 (needs creation)
-   - [ ] Document user's irreverent, self-aware style
-   - [ ] Include examples from user's stories
-   - [ ] Balance humor with genuine appreciation
-   - [ ] Add optional: user-written voice sample
-
-10. **Revision Workflow** 📝 (needs creation)
-    - [ ] Define review stages
-    - [ ] User feedback integration process
-    - [ ] Final approval criteria
-
-### New Materials (From Feedback)
-
-11. **Epilogue Letter Guide** 📝 (needs creation)
-    - [ ] Four-part structure template (who I was / who I am / how you helped / I'm glad you're here)
-    - [ ] Person-specific customization guidance
-    - [ ] Wedding context integration
-    - [ ] Distinguish from chapter content (inward vs outward focus)
-
-12. **Response Quality Rubric** 📝 (needs creation)
-    - [ ] Define high/low quality response indicators
-    - [ ] Interview Architect assessment criteria
-    - [ ] Follow-up decision tree
-    - [ ] ADHD overwhelm signals
-
-13. **Relationship Timeline Tool** 📝 (needs creation)
-    - [ ] Template for chronology per person
-    - [ ] Significant events tracking
-    - [ ] Non-chronological memory organization
-
-14. **HTML Multimedia Template** 📝 (needs creation)
-    - [ ] Design beautiful, responsive HTML book format
-    - [ ] Multimedia integration (photos, audio, video)
-    - [ ] Interactive elements
-    - [ ] Hosting/delivery method
-
-15. **Production Timeline & Milestones** 📝 (needs creation)
-    - [ ] March 14, 2026 deadline
-    - [ ] Binding buffer (1-2 weeks)
-    - [ ] Phase milestones for 20 books
-    - [ ] Parallel production schedule
-
-### Optional/Lower Priority Materials
-
-16. **Mood Board Feature** 💡 (suggested by Gemini, optional)
-    - [ ] Way to share photos, songs, visual cues
-    - [ ] Evoke relationship feeling
-
-17. **Skipped Questions Log** 💡 (suggested by Gemini, optional)
-    - [ ] Track why questions were skipped
-    - [ ] Inform Content Organizer of gaps
-
-18. **Shared Values & Beliefs Questions** 💡 (suggested by Gemini, can integrate into Question Bank)
-    - [ ] Add to Interview Question Bank
+**What to build:**
+- Episodic friendship dynamics guidance
+- Non-linear timeline techniques
+- Playful/meta narrative devices
+- Authenticity > structure principle
+- Wedding context framing
 
 ---
 
-## Agent Role Updates Needed
+### Material 3: Working With You Guide
+**Status:** Mostly Complete (needs minor updates)
+**Suggested Agent:** Either
+**Est. Time:** 30 minutes
+**Prerequisites:** Read `context/user_context.md`
+**Template:** `templates/working_with_you_guide_template.md`
+**Output:** `materials/working_with_you_guide.md`
 
-### Agent 1: Interview Architect (Gemini) 🔄
-- [ ] Add real-time response quality assessment capability
-- [ ] Add Meta-Observer functionality
-- [ ] Update question bank with new categories
-- [ ] Add conversational, iterative approach guidance
-- [ ] Add "explain why you're asking" principle
-
-### Agent 2: Content Organizer (ChatGPT) 🔄
-- [ ] Update theme categories
-- [ ] Add parallel production workflow
-- [ ] Optimize for 20-book batch processing
-- [ ] Add pipeline phase tracking
-
-### Agent 3: Narrative Designer (Gemini) 🔄
-- [ ] Update for episodic friendship dynamics
-- [ ] Add non-linear timeline techniques
-- [ ] Prioritize authenticity over structure
-- [ ] Add playful/meta narrative guidance
-- [ ] Include wedding context framing
-
-### Agent 4: Story Writer (ChatGPT) 🔄
-- [ ] Add user's voice and tone examples
-- [ ] Balance humor with genuine appreciation
-- [ ] Distinguish chapter (outward) vs epilogue (inward) focus
-- [ ] Add four-part epilogue structure
-- [ ] Prepare for dual format (print + HTML)
-
-### Agent 5: Quality Reviewer (Gemini) 🔄
-- [ ] Add session meta-analysis capability (strategic Meta-Observer)
-- [ ] Update quality criteria for person-specific authenticity
-- [ ] Add Response Quality Rubric
-- [ ] Define feedback loop to Interview Architect
-- [ ] Add wedding gift quality bar
+**What to update:**
+- Add "explain why you're asking" principle
+- Emphasize conversational, iterative approach
 
 ---
 
-## People List (9 of ~20)
+### Material 4: Content Organization System
+**Status:** Not Started
+**Suggested Agent:** ChatGPT (organization and structure expertise)
+**Est. Time:** 2 hours
+**Prerequisites:** Material 1 (Interview Question Bank) for theme categories
+**Template:** `templates/content_organization_system_template.md`
+**Output:** `materials/content_organization_system.md`
 
-**Confirmed:**
-1. Anthony - Best friend, best man (pilot candidate)
-2. Bailey - Fiancée
-3. Anya - Anthony's sister (pilot candidate)
-4. Dan Zhang - Friend, detailed example (pilot candidate)
-5. Alex and Stacey - 10 years, ski trips
-6. Dan Peek - Big brother figure
-7. Alex Georgis - Battle buddy
-8. Roger Iyengar - Best bud since interns
-9. Shashank Chiranwala - Helped through back pain
-
-**To Add:** ~11 more people
-
----
-
-## Timeline Estimate
-
-**Total time available:** ~12 weeks (Dec 15, 2025 - March 14, 2026)
-**Binding buffer:** 1-2 weeks
-**Working time:** ~10 weeks
-
-### Breakdown:
-- **Harness building:** 1-2 weeks (current phase)
-- **Pilot book:** 1 week
-- **Production (19 books):** 6-7 weeks
-- **Formatting & finalization:** 1 week
-- **Binding/printing:** 1-2 weeks
-
-**Status:** On track if we complete harness by end of December
+**What to build:**
+- Updated theme categories with examples
+- Directory structure for 20 books
+- Parallel production workflow
+- Pipeline tracking system
 
 ---
 
-## Key Decisions Made
+### Material 5: Agent Coordination Protocol
+**Status:** Not Started
+**Suggested Agent:** Either
+**Est. Time:** 2 hours
+**Prerequisites:** Material 4 (Content Organization System)
+**Template:** `templates/agent_coordination_protocol_template.md`
+**Output:** `materials/agent_coordination_protocol.md`
 
-✅ Wedding context: Books are gifts for guests traveling to rural Colorado wedding
-✅ Format: Physical book + HTML multimedia version
-✅ Production: Parallel approach to optimize user time
-✅ Authenticity: Emotional truth > structural perfection
-✅ Emotions: Person-specific, not generic
-✅ Epilogue: Four-part journey structure, tailored per person
-✅ Voice: Irreverent, self-aware, humorous, specific details
-✅ Surprise: No one knows, including Bailey
-✅ Meta-Observer: Integrated into Interview Architect + Quality Reviewer
-
----
-
-## Next Immediate Steps
-
-1. Create refined harness plan document
-2. Build all core harness materials (1-15)
-3. Update agent role descriptions
-4. Get sub-agent review of refined harness
-5. User approval
-6. Select and start pilot book
+**What to build:**
+- Parallel production workflow details
+- Meta-Observer feedback loops
+- Phase transition criteria
+- Wedding timeline milestones
 
 ---
 
-**Legend:**
-- ✅ Complete
-- 🔄 In progress
-- 📝 Needs creation
-- 💡 Optional/suggested
-- ⚪ Not started
+### Material 6: Base README
+**Status:** Not Started
+**Suggested Agent:** Either
+**Est. Time:** 1 hour
+**Prerequisites:** Read all context documents
+**Template:** `templates/base_readme_template.md`
+**Output:** `materials/base_readme.md`
+
+**What to build:**
+- General instructions for all agents
+- Wedding context and purpose
+- User's voice and character summary
+- Quality standards
+
+---
+
+### Material 7: Story Consistency Checker
+**Status:** Not Started
+**Suggested Agent:** Gemini (quality review expertise)
+**Est. Time:** 1-2 hours
+**Prerequisites:** None
+**Template:** `templates/story_consistency_checker_template.md`
+**Output:** `materials/story_consistency_checker.md`
+
+**What to build:**
+- Consistency criteria (facts, timeline, character)
+- Checklist for Quality Reviewer
+- Person-specific tracking approach
+
+---
+
+### Material 8: Emotional Beat Library
+**Status:** Not Started
+**Suggested Agent:** Gemini (emotional authenticity focus)
+**Est. Time:** 2-3 hours
+**Prerequisites:** Read `context/round_01_synthesis.md`
+**Template:** `templates/emotional_beat_library_template.md`
+**Output:** `materials/emotional_beat_library.md`
+
+**What to build:**
+- Episodic friendship emotional beats
+- Chosen family dynamics
+- User's specific emotional themes (authenticity, inclusion, mutual growth)
+- Examples from user's stories
+
+---
+
+### Material 9: Voice and Tone Guide
+**Status:** Not Started
+**Suggested Agent:** ChatGPT (writing and voice expertise)
+**Est. Time:** 2 hours
+**Prerequisites:** Read `feedback-rounds/round_01_responses.md` (Dan Zhang, Anthony, Anya examples)
+**Template:** `templates/voice_and_tone_guide_template.md`
+**Output:** `materials/voice_and_tone_guide.md`
+
+**What to build:**
+- User's irreverent, self-aware style documented
+- Examples from user's stories (drunk pushups, Big Gulp, social scripts)
+- Balance humor with genuine appreciation
+- Do's and don'ts for writing in user's voice
+
+---
+
+### Material 10: Revision Workflow
+**Status:** Not Started
+**Suggested Agent:** Either
+**Est. Time:** 1 hour
+**Prerequisites:** Material 5 (Agent Coordination Protocol)
+**Template:** `templates/revision_workflow_template.md`
+**Output:** `materials/revision_workflow.md`
+
+**What to build:**
+- Review stages (agent review → user review)
+- User feedback integration process
+- Final approval criteria
+- Handling "landmines" user identifies
+
+---
+
+### Material 11: Epilogue Letter Guide
+**Status:** Not Started
+**Suggested Agent:** ChatGPT (writing expertise)
+**Est. Time:** 2 hours
+**Prerequisites:** Read `feedback-rounds/round_01_responses.md` Q4
+**Template:** `templates/epilogue_letter_guide_template.md`
+**Output:** `materials/epilogue_letter_guide.md`
+
+**What to build:**
+- Four-part structure template (who I was / who I am / how you helped / I'm glad you're here)
+- Person-specific customization guidance
+- Wedding context integration
+- Distinguish from chapter content (inward vs outward focus)
+- Examples of good epilogue writing
+
+---
+
+### Material 12: Response Quality Rubric
+**Status:** Not Started
+**Suggested Agent:** Gemini (Meta-Observer expertise)
+**Est. Time:** 2 hours
+**Prerequisites:** Read `context/meta_observer_agent_design.md`
+**Template:** `templates/response_quality_rubric_template.md`
+**Output:** `materials/response_quality_rubric.md`
+
+**What to build:**
+- High/low quality response indicators with examples
+- Interview Architect assessment criteria
+- Follow-up decision tree
+- ADHD overwhelm signals
+- When to dig deeper vs. move on
+
+---
+
+### Material 13: Relationship Timeline Tool
+**Status:** Not Started
+**Suggested Agent:** Either
+**Est. Time:** 1 hour
+**Prerequisites:** None
+**Template:** `templates/relationship_timeline_tool_template.md`
+**Output:** `materials/relationship_timeline_tool.md`
+
+**What to build:**
+- Template for chronology per person
+- Significant events tracking format
+- Non-chronological memory organization approach
+- Example filled out (use Dan Zhang or Anthony)
+
+---
+
+### Material 14: HTML Multimedia Template
+**Status:** Not Started
+**Suggested Agent:** ChatGPT (web development)
+**Est. Time:** 3-4 hours
+**Prerequisites:** None
+**Template:** `templates/html_multimedia_template_design.md`
+**Output:** `materials/html_multimedia_template/` (directory with HTML/CSS/JS files)
+
+**What to build:**
+- Beautiful, responsive HTML book design
+- Multimedia integration (photos, audio, video)
+- Interactive elements
+- Hosting/delivery method recommendations
+- Example book structure
+
+---
+
+### Material 15: Production Timeline & Milestones
+**Status:** Not Started
+**Suggested Agent:** Either
+**Est. Time:** 1 hour
+**Prerequisites:** Material 5 (Agent Coordination Protocol)
+**Template:** `templates/production_timeline_template.md`
+**Output:** `materials/production_timeline.md`
+
+**What to build:**
+- March 14, 2026 deadline breakdown
+- Binding buffer (1-2 weeks) accounted for
+- Phase milestones for 20 books
+- Parallel production schedule with dependencies
+- Risk mitigation for timeline
+
+---
+
+## Agent Role Update Documents (5 Total)
+
+These describe updated responsibilities for each agent with new capabilities.
+
+### Agent 1: Interview Architect (Gemini) - Role Update
+**Status:** Not Started
+**Suggested Agent:** Gemini
+**Est. Time:** 1 hour
+**Prerequisites:** Materials 1, 12
+**Template:** `templates/agent_role_templates/interview_architect_role.md`
+**Output:** `materials/agent_roles/interview_architect_role.md`
+
+---
+
+### Agent 2: Content Organizer (ChatGPT) - Role Update
+**Status:** Not Started
+**Suggested Agent:** ChatGPT
+**Est. Time:** 1 hour
+**Prerequisites:** Material 4
+**Template:** `templates/agent_role_templates/content_organizer_role.md`
+**Output:** `materials/agent_roles/content_organizer_role.md`
+
+---
+
+### Agent 3: Narrative Designer (Gemini) - Role Update
+**Status:** Not Started
+**Suggested Agent:** Gemini
+**Est. Time:** 1 hour
+**Prerequisites:** Material 2, 8
+**Template:** `templates/agent_role_templates/narrative_designer_role.md`
+**Output:** `materials/agent_roles/narrative_designer_role.md`
+
+---
+
+### Agent 4: Story Writer (ChatGPT) - Role Update
+**Status:** Not Started
+**Suggested Agent:** ChatGPT
+**Est. Time:** 1 hour
+**Prerequisites:** Materials 9, 11
+**Template:** `templates/agent_role_templates/story_writer_role.md`
+**Output:** `materials/agent_roles/story_writer_role.md`
+
+---
+
+### Agent 5: Quality Reviewer (Gemini) - Role Update
+**Status:** Not Started
+**Suggested Agent:** Gemini
+**Est. Time:** 1 hour
+**Prerequisites:** Materials 7, 12
+**Template:** `templates/agent_role_templates/quality_reviewer_role.md`
+**Output:** `materials/agent_roles/quality_reviewer_role.md`
+
+---
+
+## Summary: Task Assignment by Agent
+
+### Best for Gemini (8 tasks)
+1. Interview Question Bank
+2. Narrative Structure Guide
+3. Story Consistency Checker
+4. Emotional Beat Library
+5. Response Quality Rubric
+6. Interview Architect role update
+7. Narrative Designer role update
+8. Quality Reviewer role update
+
+### Best for ChatGPT (7 tasks)
+1. Content Organization System
+2. Voice and Tone Guide
+3. Epilogue Letter Guide
+4. HTML Multimedia Template
+5. Content Organizer role update
+6. Story Writer role update
+7. Working With You Guide (update)
+
+### Either Agent Can Do (5 tasks)
+1. Agent Coordination Protocol
+2. Base README
+3. Revision Workflow
+4. Relationship Timeline Tool
+5. Production Timeline & Milestones
+
+---
+
+## Progress Tracking
+
+**Total Materials:** 15 core + 5 role updates = 20 tasks
+**Completed:** 0
+**In Progress:** 0
+**Not Started:** 20
+
+**Estimated Total Time:** 30-40 hours of agent work
+**With Parallel Work:** Can complete in 1-2 days if multiple agents work simultaneously
+
+---
+
+## Next Steps After Materials Complete
+
+1. User review and approval of all materials
+2. Select pilot book candidate
+3. Test workflow with pilot book
+4. Refine materials based on pilot learnings
+5. Begin production of 19 remaining books
+
+---
+
+**Remember:** Update CURRENT_STATUS.md when you start and finish a task!
