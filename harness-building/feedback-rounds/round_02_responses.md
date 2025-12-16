@@ -71,3 +71,81 @@
 - Web hosting or delivery method
 
 ---
+
+## Question 3: The List of People
+
+**Answer:**
+
+**Initial list (9 of ~20):**
+
+1. **Anthony** - Best friend, best man, oldest friend
+   - Known since age 13, met playing RuneScape
+   - Met IRL at age 19 after user flew to meet him with job money
+   - 6 years online before meeting in person
+
+2. **Bailey** - Fiancée
+   - "Will write book for her cuz I love her"
+
+3. **Anya** - Anthony's sister, treats user like a brother
+   - **Formative moment:** When user got Facebook job at age 20, Anya sent "the nicest congrats message ever"
+   - User's mother only asked how much they were making
+   - **Key realization:** "This contrast made me realize I deserved people like Anya in my life"
+   - Bailey and user visited her in Austin
+
+4. **Dan Zhang** - Friend from earlier example
+   - Peach schnapps, smoked prime rib, told user about LLMs
+   - Greece bar trip, Christmas cards with cats
+   - Work/tech conversations, Quora top writer
+
+5. **Alex and Stacey** - Known 10 years
+   - Always brought user along on ski trips and activities
+   - "Dealt with my weirdness"
+   - Alex met user at party when user was intern
+
+6. **Dan Peek** - Friend and colleague from work
+   - Meet once a week, occasionally chat for hours at odd hours
+   - "Like the big brother I never had"
+
+7. **Alex Georgis** - Friend from work
+   - "Battle buddy, helped me grow"
+
+8. **Roger Iyengar** - One of best buds
+   - Known since they were interns
+   - Hang often
+
+9. **Shashank Chiranwala** - Friend from work
+   - Really helped user through back pain
+   - Big supporter
+   - "We love dogs"
+
+**Status:** 9 of ~20 identified, more to come
+
+---
+
+## Key Insights from This List
+
+**Relationship patterns:**
+- Mix of very long-term (Anthony - 13+ years) and work friendships
+- Several "known since interns" (Dan Zhang, Roger, Alex)
+- Work colleagues who became close friends (Dan Peek, Alex Georgis, Shashank)
+- Family of choice (Anya, Anthony's sister)
+- Partner (Bailey)
+
+**Formative moments already emerging:**
+- Anya's congrats vs. mother's money question = realization of deserving better
+- Anthony making RuneScape account, calling to check on user
+- Alex and Stacey including user despite "weirdness"
+- Dan Peek as "big brother I never had"
+- Shashank helping through back pain
+
+**Pilot book candidates:**
+- **Anthony** - Oldest friend, most history, best man (high stakes but rich material)
+- **Dan Zhang** - Already have detailed example, good test case
+- **Anya** - Powerful formative moment, clear emotional core
+
+**Themes appearing:**
+- Being included despite being different
+- People who helped user grow
+- Chosen family vs. biological family
+- Work friendships that transcended workplace
+- Support through challenges (back pain, career, personal growth)
