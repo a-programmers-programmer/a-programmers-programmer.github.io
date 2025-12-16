@@ -215,3 +215,36 @@ The epilogue should communicate user's journey as the person knows them:
 - Chapters should celebrate the person, not be about user's journey
 - Save user's transformation arc for epilogue
 - Balance fun/humor in chapters with heartfelt reflection in epilogue
+
+
+## Question 5: Sensitivities & Boundaries
+
+**Answer:**
+
+"I am an open book when talking with agents. I will make note of any 'landmines' in my final read throughs."
+
+**Key Points:**
+- No pre-filtering needed during interview process
+- User is comfortable being open with LLM agents
+- User will handle sensitivity review during final editing phase
+- Trust user to flag issues themselves rather than building complex safeguards
+
+---
+
+## Key Insights from This Response
+
+**For interview process:**
+- No need for complex sensitivity detection or warning systems
+- Interview Architect can ask direct questions without excessive caution
+- User prefers agency over protective guardrails
+- Simplifies the interview workflow significantly
+
+**For review process:**
+- Build in clear final review stage where user reads everything
+- User will identify and flag any "landmines" themselves
+- This is more efficient than trying to predict sensitivities upfront
+
+**For agent design:**
+- Don't over-engineer sensitivity detection
+- Trust user's judgment and self-awareness
+- Focus energy on quality and authenticity, not protective filtering
