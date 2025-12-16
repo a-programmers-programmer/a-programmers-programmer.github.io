@@ -248,3 +248,71 @@ The epilogue should communicate user's journey as the person knows them:
 - Don't over-engineer sensitivity detection
 - Trust user's judgment and self-awareness
 - Focus energy on quality and authenticity, not protective filtering
+
+
+## Question 6: Defining Meaningful Gift
+
+**Answer:**
+
+**Core Purpose:**
+"I want them to know that they are important to me, that I appreciate them, and I am so glad they came."
+
+**CRITICAL CONTEXT - WEDDING GIFTS:**
+
+These books are wedding gifts for attendees. Key details:
+- Wedding is 2 hours from Durango airport (quite rural to begin with)
+- Guests are making a significant trek to get there
+- Many won't know everyone at the wedding
+- Only 3 nights total for the event
+- User might not have time for heartfelt conversations with everyone
+- **"I want them to know I care"**
+
+**Scale:**
+- 50 attendees total
+- User will write books for maybe 20 of them
+
+**What Makes It Meaningful:**
+The book serves as the heartfelt conversation user might not have time for during the wedding. It's a way to ensure each person knows:
+1. They are important to user
+2. User appreciates them
+3. User is glad they made the journey
+
+---
+
+## Key Insights from This Response
+
+**THIS CHANGES EVERYTHING:**
+
+**Timeline & Urgency:**
+- These need to be completed before the wedding
+- This is a time-bound project with real deadline
+- 20 books is the scope (not unlimited)
+
+**Purpose Reframed:**
+- Not just "nice books about friendships"
+- These are **thank you gifts for making the journey**
+- They compensate for limited face time during wedding
+- They say "I see you, I appreciate you, I'm glad you're here" when user can't say it in person
+
+**Emotional Stakes:**
+- Wedding context adds weight and meaning
+- Guests are traveling to rural location (significant effort)
+- Many won't know other guests (user's friends are geographically dispersed)
+- Books help guests feel valued and connected despite circumstances
+
+**For Book Design:**
+- Should feel like a personal gift, not generic
+- Should acknowledge the journey they're making
+- Should make them feel special and appreciated
+- Could potentially help guests feel more connected to each other (shared context)
+
+**For Harness Design:**
+- Need to add wedding context to all materials
+- Timeline planning becomes critical
+- Batch production considerations (20 books)
+- Quality bar is high (these are wedding gifts)
+
+**For Epilogue:**
+- Could acknowledge the wedding context
+- "I'm so glad you're here" hits different in wedding context
+- Could mention the journey they made to be there
