@@ -1,6 +1,6 @@
 # Current Project Status
 
-**Last Updated:** December 15, 2025 - Interview Question Bank completed
+**Last Updated:** December 21, 2025 - Narrative Structure Guide in progress
 
 **Project:** 20 Personalized Wedding Books
 **Deadline:** March 14, 2026
@@ -44,10 +44,10 @@
 ## In Progress 🔄
 
 **Right now:**
-- Nothing currently in progress
+- Narrative Structure Guide (Material 2)
 
 **Who's working:**
-- No active tasks
+- Manus Agent - Dec 21, 2025 - Working on Narrative Structure Guide
 
 ---
 
